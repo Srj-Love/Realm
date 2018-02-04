@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Realm</string>
+    <string name="recyclerview_with_cardview">Recyclerview with Cardview</string>
+</resources>
